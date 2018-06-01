@@ -1,0 +1,14 @@
+*.jar
+*.7z
+*.dmg
+*.iso
+*.rar
+*.gz
+*.tar
+*.zip
+*.war
+*.ear
+*.sar
+*.class
+target/
+pom.xml.tag
